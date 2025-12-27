@@ -22,10 +22,12 @@ To build a beginner-friendly responsive website using core HTML and CSS concepts
 
 ## 📁 Project Structure
 responsive-portfolio-website/
--> index.html
--> style.css
--> README.md
--> LICENSE
+## 📁 Project Structure
+responsive-portfolio-website/
+│── index.html
+│── style.css
+│── README.md
+│── LICENSE
 
 ## 🚀 How to Run
 1. Download or clone the repository
